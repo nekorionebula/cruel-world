@@ -1,5 +1,5 @@
 package cruel
 
-func CruelWorld() string {
+func World() string {
 	return "Hello Cruel World"
 }
